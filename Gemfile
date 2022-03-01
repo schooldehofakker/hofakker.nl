@@ -7,7 +7,7 @@ ruby '2.7.3'
 
 gem 'bcrypt', '~> 3.1.7'
 gem 'bootsnap', '>= 1.4.4', require: false
-gem 'image_processing', '~> 1.2'
+gem 'image_processing', '~> 1.12'
 gem 'jbuilder', '~> 2.7'
 gem 'pg', '~> 1.1'
 gem 'puma', '~> 5.0'
